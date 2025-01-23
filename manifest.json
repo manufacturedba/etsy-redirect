@@ -1,7 +1,6 @@
 {
   "manifest_version": 3,
   "version": "1.0",
-  "host_permissions": ["https://*.etsy.com/listing/*"],
   "content_scripts": [
     {
       "matches": ["https://*.etsy.com/listing/*"],
@@ -9,5 +8,8 @@
     }
   ],
   "name": "Etsy Redirect",
-  "description": "Redirect Etsy users to shop domains that favor creators"
+  "description": "Redirect Etsy users to shop domains that favor creators",
+  "icons": {
+    "128": "etsy-redirect.png"
+  }
 }
