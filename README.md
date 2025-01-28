@@ -4,9 +4,9 @@ This is a simple redirecting script packaged as a Chrome extension. It *should*
 redirect you through a shop's preferred URL for a listing if it can figure one 
 out.
 
-_Currently pending review on the Chrome Web Store._
+[Chrome Web Store](https://chromewebstore.google.com/detail/etsy-redirect/dpgfkefefcdlffpmbcidkdhafjgdbhhh)
 
-## Installation
+## Manual Installation
 
 1. Clone this repository.
 2. Follow [instructions on developer.chrome.com](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked) to load an unpacked extension.
